@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #065f46;
+    color: white;
+    text-align: center;
+}
+
+#cartContainer {
+    background-color: #10b981;
+    padding: 20px;
+    width: 350px;
+    margin: 30px auto;
+    border-radius: 10px;
+}
