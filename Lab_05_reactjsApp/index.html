@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Student Card App</title>
+
+  <!-- React + Babel via CDN — no npm needed -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/react/18.2.0/umd/react.development.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.2.0/umd/react-dom.development.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.23.2/babel.min.js"></script>
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <div id="root"></div>
+
+  <!-- Load data first, then component, then app -->
+  <script type="text/babel" src="data.js"></script>
+  <script type="text/babel" src="StudentCard.jsx"></script>
+  <script type="text/babel" src="App.jsx"></script>
+
+</body>
+</html>
