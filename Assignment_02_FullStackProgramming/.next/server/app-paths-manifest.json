@@ -1,0 +1,9 @@
+{
+  "/category/page": "app/category/page.js",
+  "/my-account/page": "app/my-account/page.js",
+  "/order-details/page": "app/order-details/page.js",
+  "/edit-shipping/page": "app/edit-shipping/page.js",
+  "/shopping-cart/page": "app/shopping-cart/page.js",
+  "/about/page": "app/about/page.js",
+  "/payment/page": "app/payment/page.js"
+}
